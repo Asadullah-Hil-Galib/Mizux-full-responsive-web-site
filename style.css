@@ -1,0 +1,95 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+}
+h4{
+   font-weight:400;
+}
+body a p h1 h2 h3 h4 h5 h6{
+    font-family: 'Roboto', sans-serif;
+
+}
+.navbar {
+	box-shadow: 3px 7px 6px #69afb6b0;
+	opacity: 0.9;
+	background: #fff;
+}
+.navbar .nav-item {
+	padding-left: 14px;
+}
+.navbar .nav-link {
+	font-size: 21px;
+	color: #333 !important;
+}
+
+
+
+                   /*       SLIDER SECTION      */
+
+
+
+.mainSlider {
+  background:linear-gradient(rgba(50,146,156,.7),rgba(50,146,156,.7)), url(./img/mountains.jpg);
+  text-align: center;
+  height: 705px;
+  padding-top: 96px;
+}
+.mainSlider img{
+        max-width: 100%;
+}
+.mainSlider h2.display-1 {
+	padding-top: 98px;
+}
+.mainSlider .btn.btn-outline-light {
+	padding: 7px 16px;
+	border-radius: 0;
+	font-size: 20px;
+}
+        /*     ABOUT / WHY SECTION CSS      */
+.about{
+	background: #f8f9fa;
+}
+
+        /*     SUBSCRIP SECTION CSS      */
+
+.subscrib{
+	background: #252525;
+}
+.form-control.form-control-lg {
+      border-radius: 0;
+}
+.btn.btn-lg.btn-block.btn-info {
+	border-radius: 0;
+}
+.boxes .card.text-center {
+	border-radius: 0;
+}
+
+           /*      AUTHORE SECTION CSS      */
+
+#authore .img-fluid {
+	margin-top: -48px;
+}
+.card .card-body a{
+	font-size: 25px;
+	color: #3292a6;
+}
+#authore .card:hover{
+      color: #fff;
+	  background: #3292a6;
+}
+#authore .card:hover.card .card-body a{
+	color: #fff;
+}
+
+        /*     CONTACT SECTION CSS     */
+
+#contact{
+	background: #f8f9fa;
+}
+
+        /*     FOOTER SECTION CSS     */
+#footer a {
+	text-decoration: none;
+	color: #fff;
+}
